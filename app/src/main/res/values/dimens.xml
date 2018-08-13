@@ -1,0 +1,23 @@
+<resources>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="toolbar_elevation">3dp</dimen>
+    <dimen name="toolbar_text_size">16sp</dimen>
+    <dimen name="toolbar_title_start_margin">24dp</dimen>
+    <dimen name="toolbar_icon_size">24dp</dimen>
+
+    <dimen name="half_margin">4dp</dimen>
+    <dimen name="smallest_margin">8dp</dimen>
+    <dimen name="small_margin">10dp</dimen>
+    <dimen name="normal_margin">24dp</dimen>
+    <dimen name="large_margin">32dp</dimen>
+
+    <dimen name="card_view_corner_radius">6dp</dimen>
+    <dimen name="card_view_elevation">2dp</dimen>
+
+    <dimen name="top_text_size">16sp</dimen>
+    <dimen name="bottom_text_size">14sp</dimen>
+
+</resources>
